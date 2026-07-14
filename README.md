@@ -1,2 +1,2 @@
-# AWS-Web-App-Deployment
-Cloud-native Employee Directory web application using EC2, S3, DynamoDB, and Application Load Balancing.
+# AWS Cloud Resume
+Using Amazon S3 to generate and host a static web address
